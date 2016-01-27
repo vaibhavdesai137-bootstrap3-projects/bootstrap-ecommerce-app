@@ -11,3 +11,5 @@
 * Product Grid
 * Customized Bootstrap Tab Widget
 * Product Pages
+
+Note: LESS files processed using Crunch on MAC

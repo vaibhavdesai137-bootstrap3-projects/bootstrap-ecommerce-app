@@ -6,9 +6,8 @@
 4. Hosted at: https://bootstrap-ecommerce-app.herokuapp.com/
 
 # Components:
-* Bootswatch UI Tools
-* Content Carousel
-* Stacked Icon (Font-Awesome)
-* Login Modal
-* Price Tables
-* Stylish Forms
+* LESS Setup 
+* Custom Header (Navigation Tab)
+* Product Grid
+* Customized Bootstrap Tab Widget
+* Product Pages
